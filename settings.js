@@ -31,23 +31,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['919895802105'] //ur owner number
-global.ownername = "AMRUSER" //ur owner name
-global.ytname = "YT: DRON" //ur yt chanel name
-global.socialm = "GitHub: AMRUSIR" //ur github or insta name
-global.location = "India, Kerala, Kottayam" //ur location
+global.vcardowner = ['918529764721'] //ur owner number
+global.ownername = "⁣𓆩ᎠARK 🅲RUSHER💥 " //ur owner name
+global.ytname = "YT: ⁣𓆩ᎠARK 🅲RUSHER💥" //ur yt chanel name
+global.socialm = "GitHub: ⁣𓆩ᎠARK 🅲RUSHER💥" //ur github or insta name
+global.location = "India, ustates, Kottayam" //ur location
 
 //bot bomdy 
-global.owner = ['919895802105']
-global.ownertag = '919895802105' //ur tag number
-global.botname = 'AMRU-SER-MD' //ur bot name
+global.owner = ['918529764721']
+global.ownertag = '918529764721' //ur tag number
+global.botname = '⁣𓆩ᎠARK 🅲RUSHER💥' //ur bot name
 global.linkz = "" //your theme url which will be displayed on whatsapp
 global.websitex = "" //ur website to be displayed
-global.botscript = 'https://github.com/AMRUSIR/AMRU-SER-MD' //script link
-global.reactmoji = "🙂" //ur menu react emoji
-global.themeemoji = "😈" //ur theme emoji
-global.packname = "AMRU-SER" //ur sticker watermark packname
-global.author = "AMRU-SER-MD" //ur sticker watermark author
+global.botscript = ' ' //script link
+global.reactmoji = "💥" //ur menu react emoji
+global.themeemoji = "🤍" //ur theme emoji
+global.packname = "ᴅᴀʀᴋ ᴄʀᴜꜱʜᴇʀ" //ur sticker watermark packname
+global.author = "⁣𓆩ᎠARK 🅲RUSHER" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -56,7 +56,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['919895801205'] //ur premium numbers
+global.premium = ['918529764721'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
